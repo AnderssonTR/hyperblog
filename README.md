@@ -15,6 +15,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 * Creado por el increíble Platzi Team #2 Cherry-pick
 * Incluye ejemplos en Windows, Linux y Mac #2 Cherry-pick
+* Disponible para todas las edades #2 Cherry-pick
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
 
